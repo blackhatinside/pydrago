@@ -1,0 +1,44 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+env/
+MyEnv/
+venv/
+
+# Django specific (if using Django)
+*.sqlite3
+db.sqlite3
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm / VSCode / other IDEs
+.vscode/
+.idea/
+
+# Windows installer files
+Thumbs.db
+
+# Environment variable files
+.env
+
+# Coverage reports
+*.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+
+# Tests folder (if you don't want to push tests)
+pydrago_tests
