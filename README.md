@@ -54,6 +54,13 @@ pydrago/
 
 ## Change Log
 
+### Version 0.2.0 (Frontend Implementation)
+- Added React frontend with React Flow integration
+- Implemented Yjs provider for CRDT synchronization
+- Created diagram editor with collaborative editing capabilities
+- Added undo/redo functionality
+- Implemented custom nodes and edges
+
 ### Version 0.1.0 (Initial Setup)
 - Created Django project and core app
 - Set up basic project structure
